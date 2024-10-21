@@ -1,0 +1,15 @@
+{
+	id: "7011c38b-f6b1-4a64-829d-0218b6d336fe"
+	type: "player"
+	player_name: "GodKillerDante"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "GodKillerDante"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFEC"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

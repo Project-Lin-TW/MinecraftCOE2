@@ -1,0 +1,15 @@
+{
+	id: "4728e2ec-4e83-421b-9a6c-18bded2ae20c"
+	type: "player"
+	player_name: "PROJECTLIN1"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "PROJECTLIN1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

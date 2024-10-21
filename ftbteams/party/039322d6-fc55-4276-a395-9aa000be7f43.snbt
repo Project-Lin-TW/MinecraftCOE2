@@ -1,0 +1,27 @@
+{
+	id: "039322d6-fc55-4276-a395-9aa000be7f43"
+	type: "party"
+	owner: "4728e2ec-4e83-421b-9a6c-18bded2ae20c"
+	ranks: {
+		8607a000-2580-4a55-977f-5eebeaf8943c: "officer"
+		7011c38b-f6b1-4a64-829d-0218b6d336fe: "officer"
+		4728e2ec-4e83-421b-9a6c-18bded2ae20c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PROJECTLIN1's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F1FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728460197532L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PROJECTLIN1\"}]}" }
+		{ from: "4728e2ec-4e83-421b-9a6c-18bded2ae20c", date: 1728460207309L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"GodKillerDante\"}]}" }
+		{ from: "4728e2ec-4e83-421b-9a6c-18bded2ae20c", date: 1728460207309L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DonySken\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728460271817L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DonySken\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728460313327L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"GodKillerDante\"}]}" }
+		{ from: "4728e2ec-4e83-421b-9a6c-18bded2ae20c", date: 1728460474557L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"GodKillerDante\"}]}" }
+		{ from: "4728e2ec-4e83-421b-9a6c-18bded2ae20c", date: 1728460477107L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"DonySken\"}]}" }
+	]
+	extra: { }
+}
